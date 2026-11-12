@@ -409,6 +409,9 @@ When performing a task, read and follow the relevant workflow file:
 3. YouTube SEO optimization:
    workflows/seo-optimization.md
 
+4. YouTube thumbnail design:
+   workflows/thumbnail-design.md
+
 Always follow the relevant workflow instructions.
 Do not ignore these files when their tasks are requested.
 
