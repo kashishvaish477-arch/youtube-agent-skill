@@ -411,6 +411,9 @@ When performing a task, read and follow the relevant workflow file:
 
 4. YouTube thumbnail design:
    workflows/thumbnail-design.md
+   
+6. Content calendar management:
+   workflows/content-calendar.md
 
 Always follow the relevant workflow instructions.
 Do not ignore these files when their tasks are requested.
