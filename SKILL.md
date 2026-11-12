@@ -421,6 +421,9 @@ When performing a task, read and follow the relevant workflow file:
 7. YouTube publishing:
    workflows/publishing-assistant.md
 
+8. YouTube analytics:
+   workflows/analytics-assistant.md
+
 Always follow the relevant workflow instructions.
 Do not ignore these files when their tasks are requested.
 
